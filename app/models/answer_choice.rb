@@ -1,0 +1,3 @@
+class AnswerChoice
+  
+end
